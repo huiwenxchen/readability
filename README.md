@@ -9,7 +9,7 @@ User will be prompted to enter text as follows: <br />
 TEXT: input some text here <br />
 Program will calculate the corresponding grade level of the text.
 
-Examples
+Examples:
 
 $ ./readability <br />
 TEXT: How are you? <br />
