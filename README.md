@@ -15,4 +15,8 @@ $ ./readability <br />
 TEXT: How are you? <br />
 Before Grade 1<br />
 
+$ ./readability <br />
+TEXT: Today's weather is great! <br />
+Grade: 2<br />
+
 
